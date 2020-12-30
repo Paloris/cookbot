@@ -1,0 +1,18 @@
+{
+  "infoMsg1": [
+    "Hé là ! Si vous voyez ceci, cela signifie que vous voulez ajouter le bot à votre serveur. Avant de faire cela, il y a quelques choses que vous devez savoir sur le bot. Si vous ne suivez pas ces étapes, le bot ne fonctionnera pas pour vous, et fera des erreurs pour moi ! Ce n'est pas ce que nous voulons, n'est-ce pas ?",
+    "-----------------------------------------------------",
+    "Tout d'abord, vous devez créer deux rôles, celui de Owner, Manager, d'administrateur et de modérateur, et ces rôles sont des rôles d'administrateur. Cela permet au système de permissions de fonctionner. (PAS VRAIMENT, IL EST RECOMMANDÉ DE LE FAIRE)",
+    "-----------------------------------------------------",
+    "Ensuite, si vous voulez avoir modlog on (ce qui est fortement recommandé), vous devez créer un channel nommé #logs. Après cela, modlog sera activé, aucune commande supplémentaire n'est nécessaire."
+  ],
+  "infoMsg2": [
+    "Alors, vous devez inviter le bot ! Voici un lien d'invitation. https://discord.com/oauth2/authorize?client_id=792414588443557950&permissions=537159744&scope=bot",
+    "Une fois que vous avez fait cela, faites .help pour voir toutes les commandes que le bot a pour vous."
+  ],
+  "infoMsg3": [
+    "DiscordBots Site: Pas disponible",
+    "Support du bot: Flemme de crée un serveur",
+    "Site du bot: Pourquoi faire ?"
+  ]
+}
